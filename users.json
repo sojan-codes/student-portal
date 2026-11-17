@@ -1,0 +1,20 @@
+{
+    "admin": {
+        "username": "admin",
+        "email": "admin@example.com",
+        "role": "Admin",
+        "password_hash": "6fd88ae8032f4adb5fc2b4dac516b8398f33ccf89bb276fdbcd23af3c8c96700",
+        "salt": "958cd68636891f9e6009b2b91a54ab29",
+        "failed_login_attempts": 0,
+        "is_locked": false
+    },
+    "sojan": {
+        "username": "sojan",
+        "email": "sojan@gmail.com",
+        "role": "Student",
+        "password_hash": "df0e9d9919bcd2955d82cd8c03946de60212b856f67e5a051963494e43417a58",
+        "salt": "f90b8b1d4ca361387ae1fe54ef6f2ffc",
+        "failed_login_attempts": 0,
+        "is_locked": false
+    }
+}
